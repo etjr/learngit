@@ -6,7 +6,7 @@ public class SelectServiceImpl implements SelectServiceI {
 
 	@Override
 	public void rostring() {
-		System.out.println();
+
 		
 	}
 	
